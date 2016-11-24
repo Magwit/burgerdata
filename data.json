@@ -1,49 +1,55 @@
-[{
+[
+  {
     "name": "Nordic Moose ",
     "id": 101,
     "ingredients": [
-        "Moose meat",
-        "Chanterelles",
-        "Rosemary dressing"
+      "Moose meat",
+      "Chanterelles",
+      "Rosemary dressing"
     ],
     "prize": 9.95
-}, {
+  },
+  {
     "name": "Burger of the House",
     "id": 102,
     "ingredients": [
-        "Beef",
-        "Tomato",
-        "Pickles",
-        "Chili maynonaise"
+      "Beef",
+      "Tomato",
+      "Pickles",
+      "Chili maynonaise"
     ],
     "prize": 7.25
-}, {
+  },
+  {
     "name": "Three cheeses",
     "id": 103,
     "ingredients": [
-        "Beef",
-        "Extra mature cheddar",
-        "Mozzarella",
-        "Swedish \"Västerbotten\" ",
-        "Olives"
+      "Beef",
+      "Extra mature cheddar",
+      "Mozzarella",
+      "Swedish \"Västerbotten\" ",
+      "Olives"
     ],
-    "prize": 5.50
-}, {
+    "prize": 5.5
+  },
+  {
     "name": "The Cheapskate",
     "id": 104,
     "ingredients": [
-        "Beef",
-        "Ketchup",
-        "Mustard"
+      "Beef",
+      "Ketchup",
+      "Mustard"
     ],
-    "prize": 2.50
-}, {
+    "prize": 2.5
+  },
+  {
     "name": "Surprize",
     "id": 105,
     "ingredients": [
-        "surp1",
-        "surp2",
-        "surp3"
+      "surp1",
+      "surp2",
+      "surp3"
     ],
-    "prize": 6.50
-}]
+    "prize": 6.5
+  }
+]
