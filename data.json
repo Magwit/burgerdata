@@ -1,7 +1,6 @@
 [
   {
     "name": "Nordic Moose ",
-    "id": 101,
     "ingredients": [
       "Moose meat",
       "Chanterelles",
@@ -11,7 +10,6 @@
   },
   {
     "name": "Burger of the House",
-    "id": 102,
     "ingredients": [
       "Beef",
       "Tomato",
@@ -22,7 +20,6 @@
   },
   {
     "name": "Three cheeses",
-    "id": 103,
     "ingredients": [
       "Beef",
       "Extra mature cheddar",
@@ -34,7 +31,6 @@
   },
   {
     "name": "The Cheapskate",
-    "id": 104,
     "ingredients": [
       "Beef",
       "Ketchup",
@@ -44,7 +40,6 @@
   },
   {
     "name": "Surprize",
-    "id": 105,
     "ingredients": [
       "surp1",
       "surp2",
